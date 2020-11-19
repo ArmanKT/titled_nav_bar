@@ -1,0 +1,20 @@
+name: titled_nav_bar
+description: A another Titled Nav bar Project
+version: 1.0.0
+author: Arman Khan Tonmoy
+homepage: http://arman.pw
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.20.0 <2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
