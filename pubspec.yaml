@@ -1,8 +1,8 @@
 name: titled_nav_bar
 description: A another Titled Nav bar Project
 version: 1.0.0
-author: Arman Khan Tonmoy
-homepage: http://arman.pw
+
+homepage: https://github.com/ArmanKT/titled_nav_bar
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
