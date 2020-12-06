@@ -1,9 +1,7 @@
 # titled_nav_bar
 
-A new flutter plugin project.
+A titled simple bottom navigation bar with creamy animation on click.
 
-<<<<<<< Updated upstream
-=======
 
 <center>
 <h1> Preview </h1>
