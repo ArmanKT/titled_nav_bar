@@ -13,5 +13,5 @@ A titled simple bottom navigation bar with creamy animation on click.
 ## Getting Started
 <pre>
 dependencies:
-  titled_nav_bar: ^1.0.0
+  titled_nav_bar: ^1.0.1
 </pre>
